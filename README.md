@@ -1,8 +1,8 @@
-# PROGRAMAÇÃO PARA ENGENHARIA 2025-2
+# PROGRAMAÇÃO DE COMPUTADORES 2025-2
 
 ## 📕 Ementa
 
-Solução de problemas de engenharia utilizando lógica de programação e ferramentas computacionais.
+Implementar programas de computadores usando uma linguagem de programação estruturada. O aluno com o conhecimento apresentado estará apto a implementar e analisar sistemas computacionais de baixa e média complexidade.
 
 ## 🎯 Avaliações
 
