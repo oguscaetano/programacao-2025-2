@@ -8,6 +8,7 @@ Implementar programas de computadores usando uma linguagem de programação estr
 
 ID | Data | Avaliação | Peso
 ---|------|-----------|-----
-A2 | TBD | TBD | TBD
-A1 | TBD | TBD | TBD
+A2.1 | 02/10/2025 | Prova | 2.5
+A2.2 | TBD | Prova | 2.5
+A1 | TBD | TBD | 5.0
 SUB | TBD | TBD | Substitutiva
